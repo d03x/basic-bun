@@ -15,7 +15,10 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "faker-js": "^1.0.0",
     "figlet": "^1.8.1",
+    "reflect-metadata": "^0.2.2",
     "winston": "^3.17.0"
   }
 }
