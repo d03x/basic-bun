@@ -1,7 +1,11 @@
 loglevel="debug"
+smol = true
 preload = [
   './scripts/preload.ts'
 ]
+[install]
+production = false
+auto = "auto"
 [test]
 root="./test"
 coverage=true
