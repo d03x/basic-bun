@@ -1,5 +1,6 @@
 loglevel="debug"
 smol = true
+coverage=true
 preload = [
   './scripts/preload.ts'
 ]
