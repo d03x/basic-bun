@@ -2,7 +2,7 @@
   "name": "bun",
   "module": "index.js",
   "type": "module",
-  "workspaces":[
+  "workspaces": [
     "packages/*"
   ],
   "private": true,
@@ -15,6 +15,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "figlet": "^1.8.1"
+    "figlet": "^1.8.1",
+    "winston": "^3.17.0"
   }
 }
