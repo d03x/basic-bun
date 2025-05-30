@@ -1,5 +1,7 @@
 loglevel="debug"
-
+preload = [
+  './scripts/preload.ts'
+]
 [test]
 root="./test"
 coverage=true

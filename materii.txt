@@ -2,6 +2,7 @@ bun init
 typescript
 tsx support
 environment variabel
+watch mode
 package manager
 test runner
 package runner
